@@ -6,7 +6,7 @@
 - [x] [Emojis](#emojis)
 - [x] [Tables](#tables)
 ### External Link
-[Github Documentation](https://website-name.com)
+[Github Documentation](https://help.github.com/en)
 ### Internal Link
 [Image Holder](https://github.com/yukosuga/authoring/blob/main/images)
 ### Images
